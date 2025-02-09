@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: limegreen;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+h1 {
+    font-size: 3em;
+    text-shadow: 0 0 10px limegreen;
+}
+p {
+    font-size: 1.2em;
+}
